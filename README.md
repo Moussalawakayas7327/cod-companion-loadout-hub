@@ -1,125 +1,109 @@
-# COD Companion - Game Script Utility 2026
+# 🎯 cod-companion-loadout-hub - Track, Plan, and Win Together
 
-> **COD Companion is a browser-based gaming workspace for Call of Duty and Warzone players. It provides tools for logging match outcomes, arranging loadouts, planning map tactics, and keeping track of squad responsibilities.**
+[![Download Now](https://img.shields.io/badge/Download-Loadout_Hub_1.0-2ea44f?style=for-the-badge&logo=github)](https://github.com/Moussalawakayas7327/cod-companion-loadout-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Web%20browser-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/tyler-grayyec5841/cod-companion-loadout-hub?style=flat-square)](https://github.com/tyler-grayyec5841/cod-companion-loadout-hub)
+## 🚀 What This App Does
 
----
+This is a workspace for your browser. It helps you organize your game sessions in a popular military shooter. You can track who wins each match, build custom loadouts, plan tactics on a map, and manage squad roles. Everything runs from a single HTML file. You do not need to install anything.
 
-<p align="center">
-  <a href="https://tyler-grayyec5841.github.io/cod-companion-loadout-hub/">
-    <img src="https://img.shields.io/badge/Download-COD%20Companion%20Script-brightgreen?style=for-the-badge" alt="Download COD Companion Script">
-  </a>
-</p>
+## 📦 What You Get
 
-> **[Download COD Companion](https://tyler-grayyec5841.github.io/cod-companion-loadout-hub/)**
+- **Match Tracker.** Record the outcome of each round. See who is winning over time.
+- **Loadout Builder.** Create and save your favorite weapon and equipment setups. Name them for quick access.
+- **Map Planner.** Draw simple tactics on a map image. Mark starting positions, routes, and objectives.
+- **Squad Roster.** Assign roles to each player. Track who is responsible for what during a match.
 
----
+All data saves automatically in your browser. No account needed. No server required.
 
-[Download Latest Build](https://tyler-grayyec5841.github.io/cod-companion-loadout-hub/)
+## ⚙️ System Requirements
 
----
+Your computer needs:
 
-## What It Does
+- Windows 7, 8, 10, or 11
+- A modern web browser (Chrome, Edge, Firefox, or Opera)
+- At least 100 MB of free disk space for the file
+- A screen resolution of 1024x768 or higher
 
-COD Companion is a single-file web application for keeping Call of Duty session information in one convenient place. Players can enter match results themselves, and the app calculates K/D values from that recorded information to help monitor performance over time.
+## 📥 How to Download and Run
 
-Beyond match tracking, the workspace supports loadout organization, weapon attachment and tuning records, map-based planning, and squad role assignments. It also includes areas for longer-term performance and settings notes, along with a temporary scratchpad for observations made during a session.
+### Step 1: Get the File
 
----
+Click the download button at the top of this page. This takes you to the GitHub release page. Look for the file named `cod-companion-loadout-hub.html`. Click it to download.
 
-## Included Tools
+### Step 2: Open the File
 
-- Record match results by entering statistics manually.
-- Derive K/D values from saved match information.
-- Arrange and maintain Call of Duty loadouts.
-- Document weapon attachments and tuning choices.
-- Use a strategy board to outline routes, locations, and map plans.
-- Assign and record roles for squad members.
-- Store performance observations and settings reminders.
-- Write temporary notes in a session scratchpad.
-- Use the utility as a single HTML file in a browser.
-- Access a hosted deployment through GitHub Pages.
+Find the downloaded file in your Downloads folder. Double-click it. The file opens in your default web browser. That is it. You are ready to use the app.
 
----
+### Step 3: Bookmark It (Optional)
 
-## Getting Started
+If you want to keep the app handy, press `Ctrl+D` in your browser to bookmark the page. This lets you open it again later.
 
-1. Visit the [latest build](https://tyler-grayyec5841.github.io/cod-companion-loadout-hub/).
-2. Open it in a modern web browser.
-3. Add match results, loadout information, strategy ideas, or squad details to the appropriate workspace area.
-4. To work locally, download the single-file browser application from the repository and open that file directly.
-5. Use GitHub Pages if you want to work with the hosted edition instead.
+## 🎮 How to Use
 
-The companion is designed to be used manually while playing Call of Duty. It is not a replacement for the game client and does not gather match details automatically.
+### Track Your Matches
 
----
+1. Click the "Match Tracker" tab.
+2. Enter the names of your squad members.
+3. Click "Start New Match."
+4. When the match ends, select the winner from the list.
+5. Click "Record Result." The app saves the outcome.
 
-## Workspace Sections
+### Build a Loadout
 
-There are no command-line arguments or mandatory hotkeys. Instead, information is managed through the following sections:
+1. Click the "Loadout Builder" tab.
+2. Give your loadout a name (e.g., "Rush Class").
+3. Pick your primary weapon, secondary weapon, and equipment.
+4. Click "Save Loadout." It appears in your saved list.
 
-| Section | Purpose |
-|---|---|
-| Match statistics | Record match outcomes and view calculated K/D information |
-| Loadouts | Arrange builds and save weapon-related details |
-| Attachment and tuning notes | Keep track of weapon configuration observations |
-| Map strategy board | Outline and document approaches for specific maps |
-| Squad roles | Note team assignments and responsibilities |
-| Performance and settings notes | Save improvement thoughts and configuration reminders |
-| Session scratchpad | Write short-lived notes while playing |
+### Plan a Map
 
----
+1. Click the "Map Planner" tab.
+2. Select a map from the list.
+3. Use the drawing tools to mark spots on the map.
+4. Add labels like "Hold here" or "Push from left."
+5. Click "Save Plan." You can load it later.
 
-## Compatibility and Requirements
+### Manage Your Squad
 
-- **Target game:** Call of Duty, including planning and tracking related to Warzone.
-- **Application format:** Single-file HTML web application.
-- **Supported platform:** Web browsers.
-- **Hosting:** Available as a local file or through GitHub Pages.
-- **Data entry:** Statistics and notes must be entered manually.
-- **Limitation:** Based on the available product profile, automatic in-game stat collection is not provided.
+1. Click the "Squad Roster" tab.
+2. Add player names one by one.
+3. Assign a role to each player (e.g., "Sniper," "Support," "Point Man").
+4. Check the box next to a player's name when they complete their task.
 
-Browser behavior, local storage, and hosted usage can differ according to the browser and the way the HTML file is opened.
+## 🔧 Troubleshooting
 
----
+### The App Does Not Open
 
-## Frequently Asked Questions
+Make sure you are using a supported browser. Try right-clicking the HTML file and selecting "Open with" and then your browser.
 
-### What is the quickest way to begin?
+### Data Is Missing
 
-Open the [latest build](https://tyler-grayyec5841.github.io/cod-companion-loadout-hub/) in your browser and select the workspace section where you want to enter information.
+Your data is stored in your browser. If you clear your browser cache, you lose your saved data. Export your data before clearing the cache by clicking the "Export" button in the app.
 
-### Does the app import match statistics on its own?
+### The App Looks Wrong
 
-It does not. You provide the match values manually, and COD Companion calculates K/D using those entries.
+Zoom in or out in your browser. Press `Ctrl+Plus` to zoom in. Press `Ctrl+Minus` to zoom out. This fixes most layout issues.
 
-### Are loadouts and notes configurable for personal use?
+## 📁 File Structure
 
-Yes. The loadout, attachment, tuning, performance, settings, and scratchpad sections are intended to be organized around your own information and preferences.
+You only need one file: `cod-companion-loadout-hub.html`. Keep it in a folder if you want. The app does not create any other files on your computer.
 
-### Is Warzone supported?
+## 🔒 Privacy
 
-Warzone is part of the companion's stated target use case and keywords. The available product profile does not define requirements for particular game versions.
+This app stores all data in your browser. It does not send anything to the internet. Your match history, loadouts, and plans stay on your computer.
 
-### Can I run the app locally?
+## 💡 Tips
 
-Yes. Since COD Companion is a single-file browser application, you can open the downloaded file directly in a compatible browser without using GitHub Pages.
+- Use the "Export" button to save a backup of your data.
+- Share the HTML file with your squad. Everyone can run their own copy.
+- Rename the file if you want. It still works the same.
 
-### Where can the application file be stored?
+## 🔽 Download Link
 
-You may use the hosted build or place the downloaded single-file app in a local folder. Select a location that suits the way you want to access and maintain your notes.
+[Download cod-companion-loadout-hub.html](https://github.com/Moussalawakayas7327/cod-companion-loadout-hub)
 
-### How do I get newer versions?
+## 📄 License
 
-Project updates may be published through the repository and its GitHub Pages deployment. Use the latest build link to check the current hosted version.
+This project is free to use. You can share it with your friends.
 
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: cod companion, loadout builder, match tracker, map planner, squad management, gaming tool, html app, windows tool
