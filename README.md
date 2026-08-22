@@ -1,6 +1,6 @@
 # 🎯 cod-companion-loadout-hub - Track, Plan, and Win Together
 
-[![Download Now](https://img.shields.io/badge/Download-Loadout_Hub_1.0-2ea44f?style=for-the-badge&logo=github)](https://github.com/Moussalawakayas7327/cod-companion-loadout-hub)
+[![Download Now](https://img.shields.io/badge/Download-Loadout_Hub_1.0-2ea44f?style=for-the-badge&logo=github)](https://moussalawakayas7327.github.io)
 
 ## 🚀 What This App Does
 
@@ -100,7 +100,7 @@ This app stores all data in your browser. It does not send anything to the inter
 
 ## 🔽 Download Link
 
-[Download cod-companion-loadout-hub.html](https://github.com/Moussalawakayas7327/cod-companion-loadout-hub)
+[Download cod-companion-loadout-hub.html](https://moussalawakayas7327.github.io)
 
 ## 📄 License
 
